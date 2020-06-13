@@ -51,10 +51,5 @@
 			<artifactId>postgresql</artifactId>
 			<version>42.2.14</version>
 		</dependency>
-
 	</dependencies>
-
-	<build>
-		<finalName>SpringbootH2Database</finalName>
-	</build>
 </project>
