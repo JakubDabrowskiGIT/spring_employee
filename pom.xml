@@ -53,10 +53,11 @@
 			<version>5.4.15.Final</version>
 		</dependency>
 		<dependency>
-			<groupId>com.microsoft.sqlserver</groupId>
-			<artifactId>mssql-jdbc</artifactId>
-			<version>8.1.0.jre8-preview</version>
+			<groupId>org.postgresql</groupId>
+			<artifactId>postgresql</artifactId>
+			<version>42.2.14</version>
 		</dependency>
+
 	</dependencies>
 
 	<build>
